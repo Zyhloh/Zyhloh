@@ -20,7 +20,7 @@ Desktop App Dev, UI Designer, Web Dev, Discord Bot Dev
   <br/>
   
   <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyhlohYT&layout=compact&langs_count=8&theme=tokyonight" />
-  <img alt="Activity Graph" height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=ZyhlohYT&theme=tokyo-night&hide_border=true" />
+  ## <img alt="Activity Graph" height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=ZyhlohYT&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
