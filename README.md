@@ -18,7 +18,7 @@
       <a href="https://github.com/Zyhloh/SMI-Steam-Manifest-Installer">
         <img src="https://skillicons.dev/icons?i=electron,react,tailwind" /><br/>
         <b>SMI - Steam Manifest Installer</b><br/>
-        <sub>Electron · React · Tailwind</sub>
+        <sub>(archived) Electron · React · Tailwind</sub>
       </a>
     </td>
     <td align="center" width="300">
@@ -41,7 +41,7 @@
       <a href="https://github.com/Zyhloh/VeloHook">
         <img src="https://skillicons.dev/icons?i=cpp,windows" /><br/>
         <b>VeloHook</b><br/>
-        <sub>(archived) DirectX VTable Hooking Library</sub>
+        <sub>DirectX VTable Hooking Library</sub>
       </a>
     </td>
   </tr>
