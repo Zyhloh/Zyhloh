@@ -41,7 +41,7 @@
       <a href="https://github.com/Zyhloh/VeloHook">
         <img src="https://skillicons.dev/icons?i=cpp,windows" /><br/>
         <b>VeloHook</b><br/>
-        <sub>DirectX VTable Hooking Library</sub>
+        <sub>(archived) DirectX VTable Hooking Library</sub>
       </a>
     </td>
   </tr>
