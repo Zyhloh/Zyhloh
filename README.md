@@ -15,10 +15,10 @@
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <a href="https://github.com/Zyhloh/SMI-Steam-Manifest-Installer">
-        <img src="https://skillicons.dev/icons?i=electron,react,tailwind" /><br/>
-        <b>SMI - Steam Manifest Installer</b><br/>
-        <sub>(archived) Electron · React · Tailwind</sub>
+      <a href="https://github.com/Zyhloh/SMI-Reborn-Steam-Manifest-Installer">
+        <img src="https://skills.syvixor.com/api/icons?i=electron,react,shadcnui" /><br/>
+        <b>SMI Reborn - Steam Manifest Installer</b><br/>
+        <sub>Electron · React · ShadCN</sub>
       </a>
     </td>
     <td align="center" width="300">
