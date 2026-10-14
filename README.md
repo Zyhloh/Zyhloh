@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://zyhloh.com"><img src="assets/header.svg" width="100%" alt="Zyhloh" /></a>
+<a href="https://zyhloh.com"><img src="assets/hero.svg" width="100%" alt="Zyhloh" /></a>
 
 <img src="https://count.getloli.com/get/@:zyhloh?theme=moebooru" alt="Profile views" />
 

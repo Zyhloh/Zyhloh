@@ -9,9 +9,6 @@
 <radialGradient id="moon" cx="0.4" cy="0.35" r="0.7">
 <stop offset="0" stop-color="#fff6fa"/><stop offset="1" stop-color="#f7cfe0"/>
 </radialGradient>
-<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-<stop offset="0" stop-color="#f4a7c6"/><stop offset="1" stop-color="#9d7cf0"/>
-</linearGradient>
 <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
 <stop offset="0.6" stop-color="#0b0912" stop-opacity="0"/><stop offset="1" stop-color="#0b0912" stop-opacity="0.85"/>
 </linearGradient>
@@ -33,10 +30,7 @@
 <rect width="1200" height="380" fill="url(#fade)"/>
 <text x="90" y="128" font-family="'Yu Gothic UI', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="20" letter-spacing="10" fill="#f4a7c6">ようこそ</text>
 <text x="86" y="210" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-2" fill="#f3eef9">Zyhloh</text>
-<rect x="90" y="236" width="120" height="3" rx="1.5" fill="url(#accent)">
-<animate attributeName="width" values="40;180;40" dur="6s" repeatCount="indefinite"/>
-</rect>
-<text x="90" y="278" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#a99fbd" letter-spacing="0.5">Desktop software  ·  Reverse engineering  ·  Interface design</text>
+<text x="90" y="256" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#a99fbd" letter-spacing="0.5">Desktop software  ·  Reverse engineering  ·  Interface design</text>
 <text x="1085" y="120" font-family="'Yu Gothic UI', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="26" fill="#f3eef9" opacity="0.55" text-anchor="middle">夜</text><text x="1085" y="154" font-family="'Yu Gothic UI', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="26" fill="#f3eef9" opacity="0.55" text-anchor="middle">桜</text><text x="1085" y="188" font-family="'Yu Gothic UI', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="26" fill="#f3eef9" opacity="0.55" text-anchor="middle">の</text><text x="1085" y="222" font-family="'Yu Gothic UI', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="26" fill="#f3eef9" opacity="0.55" text-anchor="middle">開</text><text x="1085" y="256" font-family="'Yu Gothic UI', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="26" fill="#f3eef9" opacity="0.55" text-anchor="middle">発</text><text x="1085" y="290" font-family="'Yu Gothic UI', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="26" fill="#f3eef9" opacity="0.55" text-anchor="middle">者</text>
 </g>
 <rect x="0.5" y="0.5" width="1199" height="379" rx="18" fill="none" stroke="#2a2240"/>
