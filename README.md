@@ -2,15 +2,7 @@
 
 <a href="https://zyhloh.com"><img src="assets/header.svg" width="100%" alt="Zyhloh" /></a>
 
-<br />
-
-<a href="https://zyhloh.com"><img src="https://img.shields.io/badge/zyhloh.com-0b0912?style=for-the-badge&logoColor=f4a7c6&labelColor=0b0912&color=1a1029" alt="zyhloh.com" /></a>
-
-<br /><br />
-
 <img src="https://count.getloli.com/get/@:zyhloh?theme=moebooru" alt="Profile views" />
-
-<br /><br />
 
 <img src="assets/title-spotlight.svg" width="100%" alt="Spotlight" />
 
