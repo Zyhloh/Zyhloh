@@ -21,14 +21,7 @@
 <text x="1100" y="190" text-anchor="end" font-family="'Yu Gothic UI', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="96" font-weight="700" fill="#f3eef9" opacity="0.06">新作</text>
 </g>
 <rect x="1" y="1" width="1198" height="278" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-opacity="0.8"/>
-<circle cx="76" cy="58" r="5" fill="#f4a7c6">
-<animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
-</circle>
-<circle cx="76" cy="58" r="5" fill="none" stroke="#f4a7c6">
-<animate attributeName="r" values="5;14" dur="1.6s" repeatCount="indefinite"/>
-<animate attributeName="opacity" values="0.8;0" dur="1.6s" repeatCount="indefinite"/>
-</circle>
-<text x="94" y="63" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', monospace" font-size="13" letter-spacing="3" fill="#f4a7c6">IN PROGRESS  ·  OCTOBER 2026</text>
+<text x="70" y="63" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', monospace" font-size="13" letter-spacing="3" fill="#f4a7c6">IN PROGRESS  ·  OCTOBER 2026</text>
 <text x="68" y="122" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-1" fill="#f3eef9">Unofficial EGL Documentation</text>
 <text x="70" y="165" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#a99fbd">Documentation and research for the new Epic Games Launcher released in October 2026.</text>
 <rect x="70" y="200" width="184" height="30" rx="15" fill="#f4a7c6" fill-opacity="0.08" stroke="#f4a7c6" stroke-opacity="0.35"/><text x="162" y="220" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#f0c9da">Epic Games Launcher</text><rect x="265.79999999999995" y="200" width="184" height="30" rx="15" fill="#f4a7c6" fill-opacity="0.08" stroke="#f4a7c6" stroke-opacity="0.35"/><text x="358" y="220" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#f0c9da">Reverse engineering</text><rect x="461.5999999999999" y="200" width="135" height="30" rx="15" fill="#f4a7c6" fill-opacity="0.08" stroke="#f4a7c6" stroke-opacity="0.35"/><text x="529" y="220" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#f0c9da">Documentation</text>
