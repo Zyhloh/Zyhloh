@@ -13,7 +13,7 @@
 <img src="assets/title-works.svg" width="100%" alt="Selected Work" />
 
 <a href="https://github.com/Zyhloh/artemis"><img src="assets/card-artemis.svg" width="49%" alt="Artemis" /></a>
-<a href="https://github.com/Zyhloh/Discord-Plus"><img src="assets/card-discord-plus.svg" width="49%" alt="Discord Plus" /></a>
+<a href="https://github.com/Zyhloh/better-casino"><img src="assets/card-better-casino.svg" width="49%" alt="better-casino" /></a>
 <a href="https://github.com/Zyhloh/SMI-Reborn-Steam-Manifest-Installer"><img src="assets/card-smi-reborn.svg" width="49%" alt="SMI Reborn" /></a>
 <a href="https://github.com/Zyhloh/Unofficial-Crunchyroll-For-Desktop"><img src="assets/card-crunchyroll.svg" width="49%" alt="Crunchyroll for Desktop" /></a>
 <a href="https://github.com/Zyhloh/NoMoreLunarPlus"><img src="assets/card-nomorelunarplus.svg" width="49%" alt="NoMoreLunarPlus" /></a>
@@ -24,11 +24,6 @@
 <img src="assets/title-more.svg" width="100%" alt="More Projects" />
 
 <table>
-  <tr>
-    <td><a href="https://github.com/Zyhloh/better-casino"><b>better-casino</b></a></td>
-    <td>MelonLoader mod that overhauls the Schedule 1 casino</td>
-    <td><code>C#</code></td>
-  </tr>
   <tr>
     <td><a href="https://github.com/Zyhloh/Netflix-For-Desktop"><b>Netflix for Desktop</b></a></td>
     <td>Unofficial Netflix client for Windows</td>
