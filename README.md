@@ -6,7 +6,7 @@
 
 <img src="assets/title-spotlight.svg" width="100%" alt="Spotlight" />
 
-<a href="https://github.com/Zyhloh/Unofficial-EGL-Documentation"><img src="assets/spotlight-egl.svg" width="100%" alt="Unofficial EGL Documentation" /></a>
+<a href="https://github.com/Zyhloh/Unofficial-EGL-Documentation"><img src="assets/spotlight.svg" width="100%" alt="Unofficial EGL Documentation" /></a>
 
 <br /><br />
 
